@@ -3,6 +3,8 @@
 Plugin Name: 7lorem
 Description: make easy content very fast.It is a widget for making lorem ipsum.
 author:Reza nasrollahi in 7learn.com
+Plugin URI: http://7learn.com/
+
 */
 /* Start Adding Functions Below this Line */
 
