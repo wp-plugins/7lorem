@@ -3,7 +3,7 @@ Contributors: alabdrezvan
 Donate link: http://www.7learn.com/payment/?price=1000
 Tags: widget,content,lorem ipsum,persian,farsi,فارسی,لورم اپیسوم
 Requires at least: 3.0.1
-Tested up to: 3
+Tested up to: 4
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.7learn.com/
@@ -17,8 +17,8 @@ This plugin help you and your user to make easy lorem ipsum.
 
 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Add it in your widgets
 
 == Frequently Asked Questions ==
 
@@ -30,7 +30,7 @@ This plugin help you and your user to make easy lorem ipsum.
 
 نه خیر
 == Screenshots ==
-<img style="-webkit-user-select: none" src="http://www.axgig.com/images/88694343431680518074.jpg">
+<img  src="http://www.axgig.com/images/88694343431680518074.jpg">
 
 == Changelog ==
 
