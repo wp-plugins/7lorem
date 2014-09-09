@@ -36,15 +36,3 @@ This plugin help you and your user to make easy lorem ipsum.
 
 = 1.0 =
 انشالله به زودی با تغییرات جدید نمایان خواهد شد...
-
-== Arbitrary section ==
-
-در نهایت امیدوارم که از این افزونه بهترین استفاده رو بکنید...
-
-== A brief Markdown Example ==
-
-
-
-
-
-`<?php code(); // goes in backticks ?>`
