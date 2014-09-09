@@ -25,12 +25,7 @@ This plugin help you and your user to make easy lorem ipsum.
 = آیا استفاده از افزونه رایگان است ؟ =
 
 بله
-
-= آیا این افزونه بک لینک سایتی رو در سایت ما ایجاد می کنه؟ =
-
-نه خیر
 == Screenshots ==
-<img  src="http://www.axgig.com/images/88694343431680518074.jpg">
 
 == Changelog ==
 
