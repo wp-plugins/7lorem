@@ -26,7 +26,7 @@ This plugin help you and your user to make easy lorem ipsum.
 
 بله
 == Screenshots ==
-
+1.Demo
 == Changelog ==
 
 = 1.0 =
