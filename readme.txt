@@ -12,6 +12,7 @@ This plugin help you and your user to make easy lorem ipsum.
 == Description ==
 
 ابزارک ساخت ساده ی لورم اپیسوم به کاربران این امکان رو می دهد که به راحتی بتوانند متن ساختگی معنی دار و بی معنی بسازند.
+1. Screen shot (screenshot-1.png) in preview
 
 == Installation ==
 
